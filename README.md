@@ -1,17 +1,23 @@
-## UIUX-Project-1-Empathy-Map
+# UI/UX Project 1 - Empathy Map
 
+## Overview
 This project was completed as part of my UI/UX Design Internship at Decode Labs.
 
-## Objective
-Understand the needs, pain points, and motivations of busy office professionals using a fitness application.
+## Project Scenario
+A fitness startup wants to launch an app for busy office professionals who struggle to find time for exercise. The goal was to understand user needs before beginning the design process.
 
 ## Deliverables
 - User Persona
 - Empathy Map
-- User Research Analysis
+- Pain Points Analysis
+- User Needs Identification
 
 ## Tools Used
 - Figma
 - Canva
 
-Prepared by: Rakshitha N
+## Key Learning
+This project helped me understand the importance of user research, empathy mapping, and identifying user pain points before designing solutions.
+
+Prepared by:
+Rakshitha N
